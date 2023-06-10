@@ -20,7 +20,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--bg);
   color: #fff;
-  min-height: 5000px;
+/*   min-height: 5000px; */
 }
 
 /* Navbar */
